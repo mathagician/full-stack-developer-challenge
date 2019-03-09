@@ -1,2 +1,2 @@
-web: python manage.py runserver --log-file 
+web: gunicorn blogsite.wsgi --log-file 
 
