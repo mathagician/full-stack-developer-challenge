@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'storycollections',
         'USER': 'root',
         'PASSWORD': '',
-        'HOST': 'localhost',
+        'HOST': '',
         'PORT': '',
     }
 }
